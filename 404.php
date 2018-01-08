@@ -1,0 +1,1 @@
+<?php  "la vie est belle" ?>
